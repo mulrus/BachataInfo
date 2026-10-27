@@ -1,12 +1,26 @@
 {
-  "updated_at": "2026-10-26T15:22:57.655Z",
+  "updated_at": "2026-10-27T11:38:17.345Z",
   "source": "BachataInfo.ru / Google Sheets",
   "only_upcoming": false,
   "only_approved": false,
-  "count": 291,
-  "upcoming_count": 11,
+  "count": 292,
+  "upcoming_count": 12,
   "past_count": 280,
   "events": [
+    {
+      "id": "BI-MANUAL-MVQM3C22",
+      "title": "ТЕСТ",
+      "city": "Санкт-Петербург",
+      "country": "США",
+      "start_date": "2026-10-20",
+      "end_date": "2026-10-28",
+      "category": "Фестиваль",
+      "section": "",
+      "url": "",
+      "source_page": "",
+      "verified": true,
+      "is_upcoming": true
+    },
     {
       "id": "BI-0171",
       "title": "КУБОК РОССИИ 2025 / КУБОК ФЕДЕРАЦИИ (X этап)",
