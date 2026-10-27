@@ -1,26 +1,12 @@
 {
-  "updated_at": "2026-10-27T14:15:55.227Z",
+  "updated_at": "2026-10-27T14:19:49.792Z",
   "source": "BachataInfo.ru / Google Sheets",
   "only_upcoming": false,
   "only_approved": false,
-  "count": 316,
-  "upcoming_count": 36,
+  "count": 314,
+  "upcoming_count": 34,
   "past_count": 280,
   "events": [
-    {
-      "id": "BI-MANUAL-MVQM3C22",
-      "title": "ТЕСТ",
-      "city": "Санкт-Петербург",
-      "country": "Казахстан",
-      "start_date": "2026-10-20",
-      "end_date": "2026-10-28",
-      "category": "Фестиваль",
-      "section": "",
-      "url": "",
-      "source_page": "",
-      "verified": true,
-      "is_upcoming": true
-    },
     {
       "id": "BI-0171",
       "title": "КУБОК РОССИИ 2025 / КУБОК ФЕДЕРАЦИИ (X этап)",
@@ -5595,32 +5581,6 @@
       "visa_review_required": true,
       "visa_reference_as_of": "2026-10-27",
       "notes": "Город определён из названия, дата начала из календаря.",
-      "image_url": ""
-    },
-    {
-      "id": "BI-WEB-D14DC03D2F",
-      "title": "Bachata Escape",
-      "city": "",
-      "country": "Доминиканская Республика",
-      "start_date": "2027-02-06",
-      "end_date": "",
-      "category": "Фестиваль",
-      "url": "https://latindancecalendar.com/festivals/style/bachata/",
-      "source": "Latin Dance Calendar",
-      "source_page": "https://latindancecalendar.com/festivals/style/bachata/",
-      "source_urls": [
-        "https://latindancecalendar.com/festivals/style/bachata/"
-      ],
-      "verified": false,
-      "date_status": "start_only",
-      "is_upcoming": true,
-      "visa": "Без визы",
-      "visa_type": "free",
-      "visa_source": "https://www.kdmid.ru/docs/dominican-republic/information-about-the-country/",
-      "visa_checked_at": "",
-      "visa_review_required": true,
-      "visa_reference_as_of": "2026-10-27",
-      "notes": "Город не указан.",
       "image_url": ""
     },
     {
